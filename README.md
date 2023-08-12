@@ -1,0 +1,4 @@
+- connect to a cloud MySQL database
+- create dynamic pages by pulling information from DB
+- add entries to the database using data from form submissions
+- deploy a production-ready database-driven web app
